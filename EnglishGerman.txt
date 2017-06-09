@@ -1,0 +1,49 @@
+white : weiß
+Ich will Deutsch lernen : I want to learn German
+können : can
+Sie sehen uns : You see us
+Du magst es : You like it
+Ich mag dich nicht : I do not like you
+Ich sehe : I see
+Ich mag ihr nicht : I do not like her
+Wir haben es : We have it
+Wir brauchen es : We need him
+Er sieht uns : He sees us
+Du liebst sie : You like her
+Ich kenne euch nicht : I do not know you
+Du isst deine Suppe : You eat your soup
+Wir sehen unsere Bücher : We see our books
+Die Katzen trinken ihre Milch : The cats drink their milk
+Ich mag diesen Schmuck : I like this jewel
+Ich mag deine Schuhe : I like your shoes
+Wir essen ihren Reis : We eat their Rice
+Ich esse meine Kartoffeln : I eat my potato
+Ich sehe seine Katze : I see his cat
+Wir mögen alle Katzen : We like all the cats
+Wir sehen jedes Ei : We see every egg
+Ich esse viele Apfel : I eat a few apples
+Welchen Wein brauchst du : What wine do you need
+Ich mag alle Bücher : I like all the books
+Ich habe viele Bücher : I have many books
+Sie liest alle Zeitungen : She reads all the newspaper
+Welchen Orangensaft magst du : Which orange juice do you like
+Welchen Apfel bringst du : Which apple do you bring
+Ein Bar : A Bear
+Eule : Owl
+Ein Aal : An eel
+Das Pferd ist ein Tier : The horse is a animal
+Der Vogel frisst die Maus : The bird eats the mouse
+Hast du ein Haustier : Do you have a pet
+Ich bin eine Fliege : I'm a fly
+Ein Tier frisst einen Apfel : An animal eats a apple
+Die Katze ist ein Haustier : The cat is a pet
+Das Kind hat einen Aal : The child has an eel
+Der Vogel trinkt Wasser : The bird drinks water
+stadt : street
+Eis : Ice cream
+school : schule
+Tee : Tea
+Kaffee : Coffee
+Flug : Flight
+Tochter : Daughter
+water : wasser
