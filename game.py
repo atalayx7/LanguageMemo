@@ -4,6 +4,7 @@ a = {}
 exitCondition = True
 counter = 0
 
+
 def randomZero():
     print("randomZero press 'q' for quit")
     for i in a:
@@ -18,7 +19,7 @@ def randomZero():
             global counter
             counter += 1
         else:
-
+            print("Answer : ", i)
             counter = 0
 
         return
@@ -37,7 +38,7 @@ def randomOne():
             global counter
             counter += 1
         else:
-
+            print("Answer : ", a[i])
             counter = 0
 
         return
@@ -61,8 +62,8 @@ def state(theFileName):
 
         splitLine = chosen.rstrip("\n").split(':')
 
-        splitLine[0] = splitLine[0].replace(" ", "")  # removes the space insof ' Eis'
-        splitLine[1] = splitLine[1].replace(" ", "")  # removes the space ins of 'Dondurma '
+        splitLine[0] = splitLine[0].strip()  # removes the space insof ' Eis'
+        splitLine[1] = splitLine[1].strip()  # removes the space ins of 'Dondurma '
 
         a[splitLine[0]] = "".join(splitLine[1])
 
